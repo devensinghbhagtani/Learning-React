@@ -1,8 +1,7 @@
-# React + Vite
+# A Simple Counter App
+Learnt About:
+  - Hooks in React
+  - UI updation with simple JS
+  - Problem in UI updation with JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/devensinghbhagtani/Learning-React/assets/67409912/657fa40a-25e6-46d7-a45c-00bca06f0800)
